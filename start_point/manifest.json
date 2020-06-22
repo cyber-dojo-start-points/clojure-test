@@ -1,14 +1,15 @@
 {
-  "image_name": "cyberdojofoundation/clojure_test",
+  "image_name": "cyberdojofoundation/clojure_test:0bcbdd6",
   "display_name": "Clojure, clojure.test",
-  "visible_filenames":
-  [
+  "visible_filenames": [
     "hiker_test.clj",
     "hiker.clj",
     "cyber-dojo.sh",
     "project.clj"
   ],
-  "filename_extension": [ ".clj" ],
+  "filename_extension": [
+    ".clj"
+  ],
   "max_seconds": 20,
   "tab_size": 2
 }
