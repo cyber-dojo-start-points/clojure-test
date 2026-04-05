@@ -1,12 +1,13 @@
 {
-  "image_name": "cyberdojofoundation/clojure_test:0bcbdd6",
-  "display_name": "Clojure, clojure.test",
+  "display_name": "Clojure 1.12.4, clojure.test",
+  "image_name": "ghcr.io/cyber-dojo-languages/clojure_test:a58737d",
   "visible_filenames": [
     "hiker_test.clj",
     "hiker.clj",
     "cyber-dojo.sh",
     "project.clj"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".clj"
   ],
