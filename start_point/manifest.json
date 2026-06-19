@@ -1,5 +1,13 @@
 {
   "display_name": "Clojure 1.12.4, clojure.test",
+  "language": [
+    "Clojure",
+    "1.12.4"
+  ],
+  "test_framework": [
+    "clojure.test",
+    ""
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/clojure_test:a58737d",
   "visible_filenames": [
     "hiker_test.clj",
