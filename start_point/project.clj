@@ -1,4 +1,18 @@
+; This names the dependencies the image holds, and the image computed its
+; classpath from a copy of this file when it was built. cyber-dojo.sh reads that
+; baked classpath, not this file, so adding a dependency here does not put it on
+; the classpath of a test run. Nothing could be added in any case: a kata runs
+; with no network, so the only jars to be had are the ones already in the image.
+;
+; Adding source and test files does work, and needs nothing here. The kata's own
+; directory is on the classpath, so a test file can require a source file beside
+; it, and cyber-dojo.sh names every file matching *_test.clj. Name files for the
+; exercise being done; nothing anywhere expects the names this start-point ships.
+;
+; The clojure version is named rather than asked for as "RELEASE", because
+; "RELEASE" is whatever was published most recently, including a pre-release,
+; which is not a property of this image at all.
 (defproject hiker "0.0.1-SNAPSHOT"
   :description "Run clojure.test tests inside cyber-dojo"
-  :dependencies [[org.clojure/clojure "RELEASE"]]
+  :dependencies [[org.clojure/clojure "1.12.4"]]
   :source-paths ["."])
