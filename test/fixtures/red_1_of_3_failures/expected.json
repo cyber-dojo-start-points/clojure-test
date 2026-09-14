@@ -1,0 +1,12 @@
+{
+  "match_counts": {
+    "^Testing hiker-test$": 1,
+    "^FAIL in ": 1,
+    "^FAIL in \\(the-answer-has-two-digits\\) \\(hiker_test\\.clj:[0-9]+\\)$": 1,
+    "^  actual: \\(not \\(= 2 1\\)\\)$": 1,
+    "^Ran 3 tests containing 3 assertions\\.$": 1,
+    "^1 failures, 0 errors\\.$": 1,
+    "^ERROR in ": 0
+  },
+  "truncated": false
+}

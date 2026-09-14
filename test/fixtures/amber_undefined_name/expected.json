@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Syntax error compiling at \\(hiker_test\\.clj:[0-9]+:[0-9]+\\)\\.$": 1,
+    "^Unable to resolve symbol: answerr in this context$": 1,
+    "^Ran ": 0,
+    "^Exception in thread": 0
+  },
+  "truncated": false
+}

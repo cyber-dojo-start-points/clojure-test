@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^Execution error \\(ArithmeticException\\) at ": 1,
+    "^Divide by zero$": 1,
+    "^Ran ": 0,
+    "^Testing hiker-test$": 0,
+    "^FAIL in ": 0
+  },
+  "truncated": false
+}

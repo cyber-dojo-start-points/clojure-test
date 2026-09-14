@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 16,
+  "match_counts": {
+    "^answer was called$": 1,
+    "^Testing hiker-test$": 1,
+    "^Ran 1 tests containing 1 assertions\\.$": 1,
+    "^0 failures, 0 errors\\.$": 1
+  },
+  "truncated": false
+}

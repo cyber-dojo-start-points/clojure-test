@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^Testing hiker-test$": 1,
+    "^ERROR in \\(the-answer-shared-between-no-hikers\\) ": 1,
+    "^  actual: java\\.lang\\.ArithmeticException: Divide by zero$": 1,
+    "^Ran 1 tests containing 1 assertions\\.$": 1,
+    "^0 failures, 1 errors\\.$": 1,
+    "^FAIL in ": 0
+  },
+  "truncated": false
+}

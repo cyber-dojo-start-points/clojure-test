@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^Testing answer-size-test$": 1,
+    "^Testing hiker-test$": 1,
+    "^FAIL in ": 1,
+    "^FAIL in \\(the-answer-has-three-digits\\) \\(answer_size_test\\.clj:[0-9]+\\)$": 1,
+    "^Ran 4 tests containing 4 assertions\\.$": 1,
+    "^1 failures, 0 errors\\.$": 1
+  },
+  "truncated": false
+}

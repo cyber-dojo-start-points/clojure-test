@@ -1,0 +1,12 @@
+{
+  "match_counts": {
+    "^Testing hiker-test$": 1,
+    "^ERROR in \\(the-answer-shared-between-no-hikers\\) ": 1,
+    "^  actual: java\\.lang\\.ArithmeticException: Divide by zero$": 1,
+    "^FAIL in \\(life-the-universe-and-everything\\) \\(hiker_test\\.clj:[0-9]+\\)$": 1,
+    "^  actual: \\(not \\(= 54 42\\)\\)$": 1,
+    "^Ran 2 tests containing 2 assertions\\.$": 1,
+    "^1 failures, 1 errors\\.$": 1
+  },
+  "truncated": false
+}

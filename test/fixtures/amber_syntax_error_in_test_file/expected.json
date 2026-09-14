@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Syntax error reading source at \\(hiker_test\\.clj:[0-9]+:[0-9]+\\)\\.$": 1,
+    "^EOF while reading, starting at line [0-9]+$": 1,
+    "^Ran ": 0,
+    "^Exception in thread": 0
+  },
+  "truncated": false
+}

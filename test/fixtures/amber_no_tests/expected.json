@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Testing user$": 1,
+    "^Testing hiker-test$": 0,
+    "^Ran 0 tests containing 0 assertions\\.$": 1,
+    "^0 failures, 0 errors\\.$": 1
+  },
+  "truncated": false
+}

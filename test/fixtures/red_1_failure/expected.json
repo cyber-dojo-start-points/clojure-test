@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^Testing hiker-test$": 1,
+    "^FAIL in \\(life-the-universe-and-everything\\) \\(hiker_test\\.clj:[0-9]+\\)$": 1,
+    "^  actual: \\(not \\(= 42 54\\)\\)$": 1,
+    "^Ran 1 tests containing 1 assertions\\.$": 1,
+    "^1 failures, 0 errors\\.$": 1,
+    "^ERROR in ": 0
+  },
+  "truncated": false
+}

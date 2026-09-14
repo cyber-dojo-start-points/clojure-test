@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Execution error at .* \\(hiker_test\\.clj:[0-9]+\\)\\.$": 1,
+    "^No namespace: sums\\.checksum$": 1,
+    "^Ran ": 0,
+    "^Testing hiker-test$": 0
+  },
+  "truncated": false
+}

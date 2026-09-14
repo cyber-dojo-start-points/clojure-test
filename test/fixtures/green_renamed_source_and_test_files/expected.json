@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 15,
+  "match_counts": {
+    "^Testing fizz-buzz-test$": 1,
+    "^Ran 4 tests containing 4 assertions\\.$": 1,
+    "^0 failures, 0 errors\\.$": 1,
+    "hiker": 0,
+    "^FAIL in ": 0
+  },
+  "truncated": false
+}

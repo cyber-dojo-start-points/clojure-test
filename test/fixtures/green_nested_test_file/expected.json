@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 17,
+  "match_counts": {
+    "^Testing hiker-test$": 1,
+    "^Testing sums\\.answer-size-test$": 1,
+    "^Ran 2 tests containing 2 assertions\\.$": 1,
+    "^0 failures, 0 errors\\.$": 1,
+    "^FAIL in ": 0
+  },
+  "truncated": false
+}
